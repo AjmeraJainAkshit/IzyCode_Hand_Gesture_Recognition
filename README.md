@@ -13,13 +13,16 @@ The primary objective of this project is to develop a machine learning or comput
   **Data Collection**
    * Gather a diverse dataset of hand gesture images or videos representing different gestures.
    * Ensure variability in lighting conditions, backgrounds, hand orientations, and individuals to improve model robustness.
+     
   **Preprocessing**
   * Preprocess the data to standardize image sizes, adjust lighting, and remove noise or irrelevant background information.
   * Augment the dataset to increase variability and improve model generalization.
+    
   **Model Development**
   * Explore different machine learning or computer vision algorithms suitable for hand gesture recognition, such as Convolutional Neural Networks (CNNs), Recurrent   Neural Networks (RNNs), or deep learning-based approaches.
   * Train the model on the annotated dataset, using techniques such as transfer learning or fine-tuning for improved performance.
   *  Optimize the model architecture and hyperparameters to achieve high accuracy and efficiency.
+    
   **Evaluation**
   * Evaluate the trained model using appropriate metrics such as accuracy, precision, recall, and F1-score.
   * Validate the model performance on a separate test dataset to assess generalization capability.
